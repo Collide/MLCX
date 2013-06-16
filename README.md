@@ -6,14 +6,14 @@ Rodrigo Ramirez - @xpromx
 
 Herramientas utilizadas:
 *Backend:* 
- PHP + mySQL
- SDK PHP de MercadoLibre
- Realizamos el un framework MVC
- Hicimos una interfaz para extender la API de MercadoLibre.
+ -PHP + mySQL
+ -SDK PHP de MercadoLibre
+ -Realizamos el un framework MVC
+ -Hicimos una interfaz para extender la API de MercadoLibre.
 
 *Frontend:* 
- Twitter Bootstrap
- jQuery
+ * Twitter Bootstrap* 
+ * jQuery* 
 
 
 *Sobre el proyecto*
@@ -24,14 +24,14 @@ Estos QR podrian aplicarse en las vidrieras de las tiendas, en un producto en es
 Al escanear el codigo podra ingresar al perfil detallado del vendedor y elegir entre estas opciones:
 
 *Lado cliente*
- Guardar tienda (offline en el celular y online cuando se identifica en ML)
- Guardar articulos (offline en el celular y online cuando se identifica en ML)
- Consultar los articulos y tiendas guardadas
- Ver todos los productos que la tienda ofrece
- Filtrar con una busqueda entre los articulos de la tienda.
- Ver reputacion del cliente
- Denunciar una publicacion
- Suscripcion al newsletter propio de la tienda
+ * -Guardar tienda (offline en el celular y online cuando se identifica en ML)* 
+ * -Guardar articulos (offline en el celular y online cuando se identifica en ML)* 
+ * -Consultar los articulos y tiendas guardadas* 
+ * -Ver todos los productos que la tienda ofrece* 
+ * -Filtrar con una busqueda entre los articulos de la tienda.* 
+ * -Ver reputacion del cliente* 
+ * -Denunciar una publicacion* 
+ * -Suscripcion al newsletter propio de la tienda* 
 
 
 *Lado vendedor/tienda*
