@@ -4,6 +4,8 @@ Mercado Libre Hackaton Junio 2013
 Rodolfo Augsburger - @Collide
 Rodrigo Ramirez - @xpromx
 
+Se puede probar online en vsvs.com.ar!
+
 Herramientas utilizadas:
 *Backend:* 
  -PHP + mySQL
