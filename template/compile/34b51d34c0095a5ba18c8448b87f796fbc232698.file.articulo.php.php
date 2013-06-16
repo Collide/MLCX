@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.13, created on 2013-06-16 01:37:50
+<?php /* Smarty version Smarty-3.1.13, created on 2013-06-16 06:10:39
          compiled from "/Users/Collide/Dropbox/MLA-Hackaton/www/template/articulo.php" */ ?>
 <?php /*%%SmartyHeaderCode:186837440251bccdc6ba5f59-66372574%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '34b51d34c0095a5ba18c8448b87f796fbc232698' => 
     array (
       0 => '/Users/Collide/Dropbox/MLA-Hackaton/www/template/articulo.php',
-      1 => 1371346665,
+      1 => 1371347572,
       2 => 'file',
     ),
   ),
@@ -42,7 +42,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
             <ul class="breadcrumb">
 			  <li><a href="index.php">Tienda</a> <span class="divider">/</span></li>
 			  <li><a href="articulos.php">Articulos</a> <span class="divider">/</span></li>
-			  <li><?php echo smarty_modifier_truncate($_smarty_tpl->tpl_vars['arrayArticulo']->value['title'],50);?>
+			  <li><?php echo smarty_modifier_truncate($_smarty_tpl->tpl_vars['arrayArticulo']->value['title'],55);?>
 </li>
 			</ul>
             

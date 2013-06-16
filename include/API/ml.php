@@ -198,6 +198,10 @@
 			if($user_id)
 			{
 				$user = $this->api->getWithAccessToken('/users/me');
+				
+				$token = $this->api->getAccessToken();	
+				$user['token'] = $token;
+				
 				return $user;
 			}
 			
