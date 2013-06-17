@@ -8,14 +8,14 @@ Se puede probar online en vsvs.com.ar!
 
 Herramientas utilizadas:
 *Backend:* 
- -PHP + mySQL
- -SDK PHP de MercadoLibre
- -Realizamos el un framework MVC
- -Hicimos una interfaz para extender la API de MercadoLibre.
+ *-PHP + mySQL*
+ *-SDK PHP de MercadoLibre*
+ *-Realizamos el un framework MVC*
+ *-Hicimos una interfaz para extender la API de MercadoLibre.*
 
 *Frontend:* 
- * Twitter Bootstrap* 
- * jQuery* 
+ *-Twitter Bootstrap* 
+ *-jQuery* 
 
 
 *Sobre el proyecto*
@@ -37,7 +37,8 @@ Al escanear el codigo podra ingresar al perfil detallado del vendedor y elegir e
 
 
 *Lado vendedor/tienda*
- Crear codigos QR para su tienda / articulos
- Estadisticas de sus potenciales clientes: Cuantos ingresan por el QR, que dispositivos, cuando hace clic en "Comprar".
+ *Crear codigos QR para su tienda / articulos*
+ *Estadisticas de sus potenciales clientes: Cuantos ingresan por el QR, que dispositivos, cuando hace clic en "Comprar".*
 
+Todas estas opciones fueron finalizadas en las 24hs de desarrollo.
 
